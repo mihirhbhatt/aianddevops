@@ -2,7 +2,7 @@
 (function () {
   "use strict";
 
-  var REPO = "https://github.com/NotHarshhaa/devops-ai-implementation-ideas";
+  var REPO = "https://github.com/mihirhbhatt/aianddevops";
   var BRANCH = "master";
   var IDEAS = window.IDEAS || [];
 
